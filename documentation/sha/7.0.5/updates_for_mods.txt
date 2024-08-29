@@ -1,0 +1,39 @@
+Deleted: Kartoffels Upscaled Body Textures\default\chara\human\c1401\obj\body\b0001\texture\c1401b0001_norm.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\equipment\e0774\texture\v01_c0101e0774_top_id.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\equipment\e0780\texture\v01_c0101e0780_glv_id.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\equipment\e0788\texture\v01_c0101e0788_dwn_id.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\equipment\e0788\texture\v01_c0201e0788_dwn_id.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\equipment\e0814\texture\v01_c0101e0814_glv_id.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\equipment\e0814\texture\v01_c0101e0814_glv_m.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\equipment\e0814\texture\v01_c0101e0814_glv_n.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\equipment\e0814\texture\v01_c0101e0814_top_id.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\equipment\e0814\texture\v01_c0101e0814_top_m.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\equipment\e0847\texture\v01_c0101e0847_dwn_id.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\equipment\e8819\texture\v01_c0101e8819_glv_m.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\equipment\e8819\texture\v01_c0101e8819_glv_n.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\monster\m6004\obj\body\b0002\texture\v01_m6004b0002_d.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\monster\m6004\obj\body\b0002\texture\v01_m6004b0002_n.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\monster\m6004\obj\body\b0002\texture\v01_m6004b0002_s.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\weapon\w0801\obj\body\b0070\texture\v01_w0801b0070_d.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\weapon\w0801\obj\body\b0070\texture\v01_w0801b0070_id.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\weapon\w0801\obj\body\b0070\texture\v01_w0801b0070_n.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\weapon\w0801\obj\body\b0070\texture\v01_w0801b0070_s.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\weapon\w2015\obj\body\b0001\texture\v01_w2015b0001_n.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\weapon\w2801\obj\body\b0006\texture\v01_w2801b0006_m.tex
+Deleted: Kartoffels Upscaled Equipment Textures\chara\weapon\w2901\obj\body\b0003\texture\v01_w2901b0003_id.tex
+Deleted: Kartoffels Upscaled Hair Textures\chara\human\c0101\obj\hair\h0163\texture\c0101h0163_hir_norm.tex
+Deleted: Kartoffels Upscaled Hair Textures\chara\human\c0201\obj\hair\h0144\texture\c0201h0144_hir_norm.tex
+Deleted: Kartoffels Upscaled Hair Textures\chara\human\c0201\obj\hair\h0163\texture\c0201h0163_hir_norm.tex
+Deleted: Kartoffels World Common and Housing Textures\bgcommon\hou\craft\bil\house\texture\bil_com_m0000_1a_d.tex
+Deleted: Kartoffels World Common and Housing Textures\bgcommon\hou\indoor\general\0948\texture\fun_b0_m0948_0b_d.tex
+Deleted: Kartoffels World Common and Housing Textures\bgcommon\hou\indoor\general\1177\texture\fun_b0_m1177_0a_d.tex
+Deleted: Kartoffels World Common and Housing Textures\bgcommon\hou\indoor\general\1378\texture\fun_b0_m1378_0a_d.tex
+Deleted: Kartoffels World Common and Housing Textures\bgcommon\hou\indoor\general\1378\texture\fun_b0_m1378_0b_d.tex
+Deleted: Kartoffels World Textures - Diffuse\bg\ffxiv\ocn_o1\ang\o1a1\texture\o1a1_06_enke2_d.tex
+Deleted: Kartoffels World Textures - Diffuse\bg\ffxiv\ocn_o1\ang\o1a1\texture\o1a1_06_plnt1_d.tex
+Deleted: Kartoffels World Textures - Diffuse\bg\ffxiv\ocn_o1\ang\o1a1\texture\o1a1_06_tree1_d.tex
+Deleted: Kartoffels World Textures - Diffuse\bg\ffxiv\ocn_o1\ang\o1a1\texture\o1a1_06_yasi1_d.tex
+Deleted: Kartoffels World Textures - Diffuse\bg\ffxiv\ocn_o1\ang\o1a1\texture\o1a1_07_plnt1_d.tex
+Deleted: Kartoffels World Textures - Diffuse\bg\ffxiv\ocn_o1\ang\o1a1\texture\o1a1_07_plnt2_d.tex
+Deleted: Kartoffels World Textures - Diffuse\bg\ffxiv\ocn_o1\ang\o1a1\texture\o1a1_07_plnt3_d.tex
+Deleted: Kartoffels World Textures - Diffuse\bg\ffxiv\ocn_o1\ang\o1a1\texture\o1a1_07_rock4_d.tex

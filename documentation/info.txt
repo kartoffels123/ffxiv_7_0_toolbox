@@ -1,0 +1,3 @@
+general information
+
+if something has been saved as a bc7 it's possible that the alpha can have an issue like fun_b0_m0963_0a_d, where the image seems 98% transparent due to noise in the alpha channel.

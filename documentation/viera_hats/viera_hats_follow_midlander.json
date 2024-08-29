@@ -1,0 +1,8079 @@
+{
+  "Version": 0,
+  "Files": {},
+  "FileSwaps": {},
+  "Manipulations": [
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "3",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 215492184416190464,
+        "SetId": "4",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "5",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "6",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "7",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202702665161900032,
+        "SetId": "8",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 179830624280903680,
+        "SetId": "9",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "10",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "12",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "13",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "14",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "15",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "16",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "17",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "18",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "23",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "24",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "26",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "27",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "28",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274830627944005632,
+        "SetId": "29",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "30",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "31",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "32",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "33",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "34",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202702665161900032,
+        "SetId": "35",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "36",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "37",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "38",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202667480789811200,
+        "SetId": "40",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "41",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "43",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "45",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "46",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270223674223624192,
+        "SetId": "47",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270239067386413056,
+        "SetId": "48",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "49",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "50",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "51",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "52",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "53",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "54",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "55",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "56",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "57",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 215492184416190464,
+        "SetId": "58",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "59",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "60",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "61",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "62",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "63",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "64",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274760259199827968,
+        "SetId": "66",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "68",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "69",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "70",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "71",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "72",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "73",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "74",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "75",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "76",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "77",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "78",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "80",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "81",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "84",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "85",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "86",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "87",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "88",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "89",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "90",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "91",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "92",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "93",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "94",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "95",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "96",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "97",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "99",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "100",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "101",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "102",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "103",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 176945505769619456,
+        "SetId": "104",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202689471022366720,
+        "SetId": "105",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "107",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202702665161900032,
+        "SetId": "108",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202702665161900032,
+        "SetId": "109",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "110",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 144115188075855872,
+        "SetId": "111",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "113",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "114",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "115",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "116",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274727273850994688,
+        "SetId": "117",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "118",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "119",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "120",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "122",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "123",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "124",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198181473348485120,
+        "SetId": "125",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "126",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "127",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "128",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "129",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "130",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "131",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "133",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "134",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "135",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270221475200368640,
+        "SetId": "136",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270223674223624192,
+        "SetId": "137",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "138",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 166671669119680512,
+        "SetId": "139",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "140",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "141",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "142",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "143",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "144",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "145",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "147",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "148",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "150",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "151",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "152",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "154",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "155",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "156",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 166671669119680512,
+        "SetId": "157",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202702665161900032,
+        "SetId": "158",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "159",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202702665161900032,
+        "SetId": "162",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "163",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "164",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "165",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "166",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "168",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202689471022366720,
+        "SetId": "169",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202689471022366720,
+        "SetId": "170",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "171",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "172",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "173",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "174",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "175",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "176",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274762458223083520,
+        "SetId": "177",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "182",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202661983231672320,
+        "SetId": "183",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "184",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "185",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "186",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "187",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "191",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "193",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "194",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 284895557384667136,
+        "SetId": "195",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "196",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "197",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "198",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "200",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "201",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "202",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "204",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "207",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "209",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "210",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "211",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "213",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "214",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "216",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "217",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "218",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "219",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "220",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "222",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "223",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "225",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "226",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "228",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "231",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "232",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "233",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "234",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270223674223624192,
+        "SetId": "236",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "237",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "238",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 234153095762804736,
+        "SetId": "239",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270256659572457472,
+        "SetId": "241",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "242",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "247",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 167304987817279488,
+        "SetId": "248",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "251",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "252",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "253",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "254",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "255",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 234153095762804736,
+        "SetId": "256",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "257",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "258",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "259",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "260",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 166671669119680512,
+        "SetId": "261",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 166671669119680512,
+        "SetId": "262",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "263",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "264",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "266",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "267",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "268",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "269",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "270",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "272",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "273",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "274",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "276",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "277",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "278",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "280",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "281",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "282",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "284",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "285",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "286",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202702665161900032,
+        "SetId": "287",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "288",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "290",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "292",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "293",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "294",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 166671669119680512,
+        "SetId": "295",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "296",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "297",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "298",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "299",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "300",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "301",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "302",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "304",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "305",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "307",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "308",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "309",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "310",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "311",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202667480789811200,
+        "SetId": "312",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "313",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202689471022366720,
+        "SetId": "314",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "315",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "316",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "317",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "321",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "322",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "324",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "326",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 151751296330760192,
+        "SetId": "327",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "328",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177015874513797120,
+        "SetId": "330",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202689471022366720,
+        "SetId": "331",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "333",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 166671669119680512,
+        "SetId": "334",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "335",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "336",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "337",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "338",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "339",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "344",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "346",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "347",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "349",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "350",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "351",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "353",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "356",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "357",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "358",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "359",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "360",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "365",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "366",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "368",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "369",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "372",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "373",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270221475200368640,
+        "SetId": "374",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "375",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "376",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "377",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "378",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "380",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "381",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "382",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "383",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "385",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "386",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "387",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "388",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "389",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270241266409668608,
+        "SetId": "390",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270241266409668608,
+        "SetId": "391",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270241266409668608,
+        "SetId": "392",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270241266409668608,
+        "SetId": "393",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "394",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 166671669119680512,
+        "SetId": "395",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "396",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "398",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "401",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "402",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "407",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "410",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274727273850994688,
+        "SetId": "411",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 213609820509437952,
+        "SetId": "412",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "414",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202667480789811200,
+        "SetId": "416",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202667480789811200,
+        "SetId": "417",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "418",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "420",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "421",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "422",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "426",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "428",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "429",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "432",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "433",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "434",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "435",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "436",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "437",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202687271999111168,
+        "SetId": "438",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "439",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "440",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "442",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "443",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "444",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "445",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "446",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "447",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "448",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "449",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "450",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "451",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "452",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "453",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "454",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "455",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202702665161900032,
+        "SetId": "458",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 167234619073101824,
+        "SetId": "459",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "460",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "462",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "464",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "466",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "467",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "469",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "470",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "472",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "474",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "475",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "476",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "477",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "478",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "479",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "480",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "481",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "482",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "484",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "485",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "486",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "487",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "488",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "489",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "495",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "496",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "497",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "498",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "499",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "500",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "502",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "503",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "514",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "516",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "517",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 159564425957736448,
+        "SetId": "518",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 159564425957736448,
+        "SetId": "519",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "521",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "522",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "523",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "524",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "526",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "529",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 148641877447409664,
+        "SetId": "530",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "531",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "532",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "533",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "535",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "537",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "538",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "539",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "541",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "544",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "546",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "547",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "548",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "549",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "551",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "552",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "553",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "554",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 166656275956891648,
+        "SetId": "555",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 159564425957736448,
+        "SetId": "556",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 159564425957736448,
+        "SetId": "559",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "560",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "561",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "562",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 166656275956891648,
+        "SetId": "564",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 148641877447409664,
+        "SetId": "566",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "572",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "573",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "578",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "579",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "580",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "581",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "584",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "585",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "586",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "587",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "588",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "589",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "590",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "591",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "593",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "595",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "596",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "597",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "598",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "599",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "601",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "602",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "603",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "604",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "605",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "606",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "607",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "609",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 176789375118475264,
+        "SetId": "611",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "612",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 238716069018075136,
+        "SetId": "613",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "614",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270241266409668608,
+        "SetId": "621",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270241266409668608,
+        "SetId": "622",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270241266409668608,
+        "SetId": "623",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270241266409668608,
+        "SetId": "624",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "625",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 223210756043177984,
+        "SetId": "627",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 148657270610198528,
+        "SetId": "628",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "630",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "631",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "632",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "633",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "634",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "635",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "636",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 179830624280903680,
+        "SetId": "637",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 167219225910312960,
+        "SetId": "638",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "639",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "640",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "641",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "643",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "644",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 238731462180864000,
+        "SetId": "645",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "646",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "647",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "652",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "654",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "655",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 220701670508593152,
+        "SetId": "656",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "657",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "658",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "660",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "661",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "662",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "664",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "665",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "666",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274742667013783552,
+        "SetId": "667",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274760259199827968,
+        "SetId": "668",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "670",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "672",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 159564425957736448,
+        "SetId": "673",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 203265615115321344,
+        "SetId": "674",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "675",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "676",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "677",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274760259199827968,
+        "SetId": "680",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274742667013783552,
+        "SetId": "681",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "682",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "684",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "686",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274742667013783552,
+        "SetId": "688",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "690",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "692",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 239281217994752000,
+        "SetId": "695",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "697",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "700",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "701",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "702",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "704",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177543640095129600,
+        "SetId": "705",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274725074827739136,
+        "SetId": "706",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "707",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "708",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "709",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 238716069018075136,
+        "SetId": "710",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 148681459866009600,
+        "SetId": "711",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "714",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "716",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 150557226702995456,
+        "SetId": "718",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 220701670508593152,
+        "SetId": "719",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 220684078322548736,
+        "SetId": "720",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 220684078322548736,
+        "SetId": "721",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 220701670508593152,
+        "SetId": "722",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 238731462180864000,
+        "SetId": "723",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "729",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "730",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "731",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274760259199827968,
+        "SetId": "732",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274747065060294656,
+        "SetId": "733",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274747065060294656,
+        "SetId": "734",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274747065060294656,
+        "SetId": "735",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274742667013783552,
+        "SetId": "736",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "740",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177561232281174016,
+        "SetId": "741",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "744",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "749",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "754",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "755",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "756",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 238716069018075136,
+        "SetId": "757",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "758",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "759",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 238716069018075136,
+        "SetId": "761",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "762",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "763",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 238713869994819584,
+        "SetId": "764",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "767",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "768",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "770",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274742667013783552,
+        "SetId": "775",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "776",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "778",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 220701670508593152,
+        "SetId": "782",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "784",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "786",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 220717063671382016,
+        "SetId": "790",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "792",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "794",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "795",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "796",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "798",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "800",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "801",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "803",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 220703869531848704,
+        "SetId": "804",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 238718268041330688,
+        "SetId": "805",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 562975242188750848,
+        "SetId": "806",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 562975242188750848,
+        "SetId": "807",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 562975242188750848,
+        "SetId": "808",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 238716069018075136,
+        "SetId": "810",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "811",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 166671669119680512,
+        "SetId": "812",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "816",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "820",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 144115188075855872,
+        "SetId": "822",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "825",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "827",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 465809200618930176,
+        "SetId": "828",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "829",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 220701670508593152,
+        "SetId": "833",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "836",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274764657246339072,
+        "SetId": "837",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "838",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 220717063671382016,
+        "SetId": "840",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "841",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "842",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "843",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "844",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "845",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 238731462180864000,
+        "SetId": "849",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "850",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "851",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 224079370229121024,
+        "SetId": "852",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 220717063671382016,
+        "SetId": "854",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "5017",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "5018",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 166671669119680512,
+        "SetId": "5022",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "5023",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "5024",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "5025",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "5028",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "5039",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270258858595713024,
+        "SetId": "5040",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6001",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6002",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6003",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6004",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6007",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6008",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6009",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6010",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6011",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6012",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "6013",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6014",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6015",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6019",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 234153095762804736,
+        "SetId": "6020",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6021",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270258858595713024,
+        "SetId": "6023",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "6024",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6025",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6030",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6033",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "6034",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "6035",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6036",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6037",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6038",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6042",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6043",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6045",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6046",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6048",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177576625443962880,
+        "SetId": "6049",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "6050",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6051",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6053",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6054",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6055",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6056",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6057",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6058",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6059",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6060",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6062",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6064",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 159564425957736448,
+        "SetId": "6065",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "6066",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6068",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6069",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "6070",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6071",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 159423688469381120,
+        "SetId": "6073",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6074",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6075",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 148641877447409664,
+        "SetId": "6076",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6077",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 238696277808775168,
+        "SetId": "6078",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6079",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 166671669119680512,
+        "SetId": "6080",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202702665161900032,
+        "SetId": "6081",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6082",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "6083",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6084",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6086",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6087",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6088",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270223674223624192,
+        "SetId": "6089",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6090",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6091",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6096",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6097",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "6098",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6099",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6100",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6101",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6102",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270223674223624192,
+        "SetId": "6103",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6104",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6105",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6107",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6108",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6109",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6110",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6111",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6112",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6113",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6115",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6116",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6117",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6118",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6119",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6120",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270223674223624192,
+        "SetId": "6121",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6122",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6123",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6124",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6127",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6129",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6130",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6131",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6132",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270223674223624192,
+        "SetId": "6133",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6134",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6135",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6136",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6139",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6140",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6141",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6142",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6144",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6145",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6146",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270223674223624192,
+        "SetId": "6147",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "6148",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6149",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6150",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6151",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6152",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6153",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 238731462180864000,
+        "SetId": "6154",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6155",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6156",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 238716069018075136,
+        "SetId": "6158",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6160",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6161",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6162",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6163",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6165",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6166",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6168",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 176804768281264128,
+        "SetId": "6170",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6171",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6172",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6173",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 144115188075855872,
+        "SetId": "6174",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6175",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6176",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6178",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6179",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270223674223624192,
+        "SetId": "6182",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6183",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6184",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 238713869994819584,
+        "SetId": "6185",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6186",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "6187",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6188",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6189",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270223674223624192,
+        "SetId": "6190",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6192",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "6193",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 234192678181404672,
+        "SetId": "8100",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 270221475200368640,
+        "SetId": "8101",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8803",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8804",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8805",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8806",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8807",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8808",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8809",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8810",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8811",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8812",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8813",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8814",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8815",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8816",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8817",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8818",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8819",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8820",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "8821",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "9001",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9002",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180109900234358784,
+        "SetId": "9003",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180109900234358784,
+        "SetId": "9004",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "9005",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9006",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180109900234358784,
+        "SetId": "9007",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180109900234358784,
+        "SetId": "9008",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "9009",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9010",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180109900234358784,
+        "SetId": "9011",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9012",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "9013",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9014",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9015",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9016",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9018",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "9019",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "9020",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 144115188075855872,
+        "SetId": "9021",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9022",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "9023",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "9024",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9025",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9026",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "9027",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 216143095299833856,
+        "SetId": "9028",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9029",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "9030",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "9031",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "9032",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9033",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "9034",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9035",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 216143095299833856,
+        "SetId": "9036",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 216143095299833856,
+        "SetId": "9037",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9038",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9039",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9040",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9041",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180109900234358784,
+        "SetId": "9042",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9043",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9044",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9045",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 216145294323089408,
+        "SetId": "9046",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 216138697253322752,
+        "SetId": "9047",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274760259199827968,
+        "SetId": "9048",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "10239",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9051",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "9052",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9053",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9054",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198729030139117568,
+        "SetId": "9055",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198729030139117568,
+        "SetId": "9056",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198729030139117568,
+        "SetId": "9057",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198729030139117568,
+        "SetId": "9058",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9059",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198746622325161984,
+        "SetId": "9060",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9061",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198726831115862016,
+        "SetId": "9062",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198729030139117568,
+        "SetId": "9063",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198832384232128512,
+        "SetId": "9064",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9065",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9066",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198744423301906432,
+        "SetId": "9067",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9068",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9069",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9070",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9071",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9072",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198726831115862016,
+        "SetId": "9073",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177332533862596608,
+        "SetId": "9074",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177332533862596608,
+        "SetId": "9075",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177332533862596608,
+        "SetId": "9076",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9077",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198726831115862016,
+        "SetId": "9078",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9079",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9080",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9081",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9082",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202689471022366720,
+        "SetId": "9083",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9084",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 215617528741756928,
+        "SetId": "9085",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 161567736143544320,
+        "SetId": "9086",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9087",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9088",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 144115188075855872,
+        "SetId": "9089",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "9090",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198726831115862016,
+        "SetId": "9091",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198166080185696256,
+        "SetId": "9092",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 216138697253322752,
+        "SetId": "9093",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 216138697253322752,
+        "SetId": "9094",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9095",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9096",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198726831115862016,
+        "SetId": "9097",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "9098",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 212818172137439232,
+        "SetId": "9099",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9100",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198166080185696256,
+        "SetId": "9101",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9102",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9103",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 216145294323089408,
+        "SetId": "9104",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 203248022929276928,
+        "SetId": "9105",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9106",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9107",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "9108",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9109",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9110",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "9111",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9112",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 197070966604431360,
+        "SetId": "9113",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9114",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9115",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202685072975855616,
+        "SetId": "9116",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198183672371740672,
+        "SetId": "9117",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 216162886509133824,
+        "SetId": "9118",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198183672371740672,
+        "SetId": "9119",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198183672371740672,
+        "SetId": "9120",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 216143095299833856,
+        "SetId": "9121",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 216143095299833856,
+        "SetId": "9122",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 216143095299833856,
+        "SetId": "9123",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9124",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9125",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177576625443962880,
+        "SetId": "9126",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9127",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "9128",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9129",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9130",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9131",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9132",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202687271999111168,
+        "SetId": "9133",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9134",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9135",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9136",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 202687271999111168,
+        "SetId": "9137",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9138",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9139",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "9140",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9141",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9142",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9143",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9144",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9145",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9146",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9147",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9148",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9149",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9150",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9151",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9152",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198181473348485120,
+        "SetId": "9153",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9154",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198183672371740672,
+        "SetId": "9155",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9157",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 161884395492343808,
+        "SetId": "9158",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198199065534529536,
+        "SetId": "9159",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9160",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198183672371740672,
+        "SetId": "9161",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198183672371740672,
+        "SetId": "9162",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9163",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 144115188075855872,
+        "SetId": "9164",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9165",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9166",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "9167",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9168",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198199065534529536,
+        "SetId": "9169",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198726831115862016,
+        "SetId": "9170",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9171",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9172",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198166080185696256,
+        "SetId": "9173",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198166080185696256,
+        "SetId": "9174",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198166080185696256,
+        "SetId": "9175",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198183672371740672,
+        "SetId": "9176",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9177",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9178",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9179",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 161956963259777024,
+        "SetId": "9180",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198196866511273984,
+        "SetId": "9181",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274744866037039104,
+        "SetId": "9182",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180041730513436672,
+        "SetId": "9183",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198166080185696256,
+        "SetId": "9184",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198166080185696256,
+        "SetId": "9185",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9186",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9189",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9190",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9191",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9192",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9193",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9194",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9195",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9196",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9197",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9198",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9199",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9200",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9201",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9202",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162102098794643456,
+        "SetId": "9203",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9204",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9205",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9206",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198166080185696256,
+        "SetId": "9207",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198166080185696256,
+        "SetId": "9208",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162059217841160192,
+        "SetId": "9209",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180112099257614336,
+        "SetId": "9210",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198166080185696256,
+        "SetId": "9211",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "9214",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9215",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198166080185696256,
+        "SetId": "9216",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177578824467218432,
+        "SetId": "9217",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198166080185696256,
+        "SetId": "9219",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198166080185696256,
+        "SetId": "9220",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9221",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198166080185696256,
+        "SetId": "9225",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9226",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198729030139117568,
+        "SetId": "9228",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 198729030139117568,
+        "SetId": "9229",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 180076914885525504,
+        "SetId": "9230",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 144115188075855872,
+        "SetId": "9231",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 216037542183567360,
+        "SetId": "9234",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9235",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 144115188075855872,
+        "SetId": "9237",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9238",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 159562226934480896,
+        "SetId": "9239",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162095501724876800,
+        "SetId": "9240",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9241",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9242",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274760259199827968,
+        "SetId": "9243",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 234153095762804736,
+        "SetId": "9244",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 274742667013783552,
+        "SetId": "9245",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9247",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9248",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9249",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9250",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9251",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 177548038141640704,
+        "SetId": "9252",
+        "Slot": "Head"
+      }
+    },
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 162094402213249024,
+        "SetId": "9253",
+        "Slot": "Head"
+      }
+    }
+  ]
+}
