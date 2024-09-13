@@ -1,0 +1,125 @@
+
+
+races:
+c0101 = midlander male
+c0104 = midlander male child
+c0201 = midlander female
+c0204 = midlander female child
+c0301 = highlander male
+c0401 = highlander female
+c0501 = elezen male
+c0504 = elezen male child
+c0601 = elezen female
+c0604 = elezen female child
+c0701 = miqote male
+c0801 = miqote female
+c0804 = miqote female child
+c0901 = roegadyn male
+c1001 = roegadyn female
+c1101 = lalafell male
+c1201 = lalafell female
+c1301 = aura male
+c1304 = aura male child
+c1401 = aura female
+c1404 = aura female child
+c1501 = hrothgar male
+c1601 = hrothgar female
+c1701 = viera male
+c1801 = viera female
+c9104 = padjal male
+c9104 = padjal female
+image category:
+face: *_fac_base, *_fac_norm, *_fac_mask, *_etc_norm, *_etc_mask, *_acc_base, *_acc_norm, *_acc_spec, *_face_spec, *_iri_mask, *_iri_norm
+body: *_base, *_mult(only b.250 or b...4), *_mask(only c1301, c1401, c1404, c1501, c1601), *_norm
+    considerations: b...1 = main, b...4 = mannequin, b..91 = elder, b.250 = mannequin
+tail (only c0701, c0801, c0804, c1301, c1401, c1501, c1601): *_base, *_mask, *_norm
+zear (only c1701, c1801): *_base, *_mask, *_norm
+hair: *_acc_id, *_acc_mult, *_acc_norm, *_hir_mask, *_hir_norm
+
+exclude: b004
+
+we are ignoring mannequin 
+image type:
+BC1:
+    body: *_base, *_mask, 
+    zear: *_fac_base, *_fac_mask
+    face: *_fac_mask, *_acc_base, *_acc_norm, *_acc_spec, *_face_spec, *_iri_mask, *_iri_norm
+    hair:
+        hir: hir_base, hir_norm, hir_spec IGNORE hir c0301h005 (bald), these are pretty rare.
+        acc: acc_base, acc_norm, acc_mult, acc_spec
+    tail (c1301, c1401): etc_norm, etc_mask, etc_base 
+BC3:
+    face: *_etc_norm, (some old shit also gets saved here by accident)
+BC5:
+    almost all *_id.
+BC7:
+    face: *_fac_base, *_fac_norm, *_etc_mask, *_fac_mask (c1301,c1401)
+    body: *_norm, *_mask (c1501, c1601 only)
+    zear: fac_norm, etc_mask, etc_norm
+    tail: etc_norm, etc_mask, etc_base
+UNCOMPRESSED:
+    a few random items that accidentally got left uncompressed but are actually compressed
+
+
+Goals:
+Face:
+    only etc_norm and etc_mask if the face has a beard, otherwise waste of space.
+    Beard faces:
+        Just consider all male faces tbh.
+
+beard mask:
+r = data
+g = can sometimes hold significant data, better use the same upscale as R
+b = very little data use a pixel scaler (mask)
+a = data
+
+beard norm:
+r = data x 
+g = data y
+b = sometimes blank sometimes data use pixel scaler
+a = alpha
+REVOKE 9204f0201_etc_norm
+
+chain ffxiv_upscale_face_etc_normal.chn
+cleaning RG: skindiffdds
+upscale RG: 4xnormal
+upscale B: HQ 2x
+upscale A: scalenx
+Hair:
+    BC7: hir_mask, hir_norm
+    BC1: hir_mask, hir_norm, hir_spec, hir_base
+Hair Accessory: try just upscaling the norm
+
+hair normal:
+R = data x 
+G = data y
+B = two tone hairs
+a = alpha
+
+chain: ffxiv_upscale_hair_normal_BC7.chn
+cleaning RG: skindiffdds
+upscale RG: 4xnormal
+upscale B: 4xscalenx
+upscale A: 4xscalenx
+
+hair mask:
+R = data
+G = data
+B = cut-outs
+a = data
+R&G could be considered correlated as contamination would be insignificant
+
+chain: ffxiv_upscale_hair_mask_BC7.chn
+upscale R: 4xfaceupDAT
+upscale G: 4xfaceupDAT
+upscale B: 4xscalenx
+upscale A: 4xfaceupDAT
+
+examine hair 0401h0201_hir_mask,  doesn't conform
+
+
+hair_base:
+    cleaning: bc1-smooth2
+    RGB: 4xfaceupDAT
+
+ignore: c0301h0005 and c0901h0009 (bald), 0201h0213_hir_mask

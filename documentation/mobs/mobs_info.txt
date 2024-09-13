@@ -1,0 +1,13 @@
+category:
+demihuman and monster
+
+monster:
+minion - 08000 series
+mount - 07000 series
+
+demihuman:
+mount - random
+
+NPCs:
+(ENpc) will be denoted by have a Monster or Demihuman attached mdl
+These can be considered higher priority than everyone else.

@@ -1,0 +1,14 @@
+bgcommon/nature/verticalfog/texture/_n_verticalfog_000.tex
+bgcommon/nature/verticalfog/texture/_n_verticalfog_001.tex
+bgcommon/nature/verticalfog/texture/_n_verticalfog_002.tex
+bgcommon/nature/water/texture/_n_wavelet_000.tex
+bgcommon/nature/water/texture/_n_wave_000.tex
+bgcommon/nature/water/texture/_n_wave_001.tex
+bgcommon/nature/water/texture/_n_wave_002.tex
+bgcommon/nature/water/texture/_n_wave_100.tex
+bgcommon/nature/water/texture/_n_wave_101.tex
+bgcommon/nature/water/texture/_n_wave_102.tex
+bgcommon/nature/water/texture/_n_whitecap_000.tex
+bgcommon/nature/water/texture/_n_whitecap_001.tex
+bgcommon/nature/water/texture/_n_whitecap_r_000.tex
+bgcommon/nature/water/texture/_n_whitecap_w_000.tex

@@ -1,0 +1,13 @@
+world textures reusable normals has been resized to 50% w/bc7 
+world textures reusable diffuse should be reformated to bc1 if RGBA is blank.
+filesize: diffuse = 45.3 /2 = 22.65; normal 27.2 /4 = 6.75
+
+Normal x1: Normal x1 BC7 (recommended)
+Diffuse x2: Diffuse x2 bc1
+Normal x2: normal x2 bc7
+
+For 
+comparison_results_dimension_same_type_same:
+all are bc1, remove blanks, remove lod etc, not _n. not _d.
+
+for original resuable diffuse, check to make sure there are no errors.

@@ -1,0 +1,61 @@
+ID[ type = BC5; scale = x2; upscaling = XBR_x2NoBlend+XBR_x2Blend for G, XBR_x2NoBlend for R]
+D[ type = BC7, BC1; scale = x2; cleaning = bc1smooth2; upscaling = lollypop; downscaling = box]
+M[ type = BC7, BC1; scale = x2; cleaning = bc1smooth2; upscaling = lollypop; downscaling = box]
+S[ type = BC7, BC1; scale = x2; cleaning = bc1smooth2; upscaling = lollypop; downscaling = box]
+N[ type= BC7; scale = x1, x2; cleaning = bc1smooth2; upscaling = scalenx/lollypop for RG, scalenx for B; downscaling = box]
+
+
+mass: 
+ID = 19.5GB @ BC5 x2
+D = 2.86 GB @ BC7 x2
+M = 3.29 GB @ BC7 x2
+S = 0.73 GB @ BC7 x2
+N = 5.46 GB @ BC7 x1
+optional upgrades
+N = 21.84 GB @ BC7 x2
+D = 5.16 GB @ BC1 x2
+optional downgrades
+M = 1.65 GB @ BC1 x2
+S = 0.18 GB @ BC7 x1
+D = 2.86 GB @ BC7 x2
+
+
+@FFXIV 
+equipment is more or less done
+we are clocking in at 
+**31.84 GB** before deduping
+Dedupe of main mass is  ~ **26.8 GB**
+
+Previously:
+ x2 equipment (up to 6.3) was 
+**36.7 GB **before deduping
+and 
+x4 equipment (up to 6.3) was 
+over **118GB **before deduping.
+
+Going forward I want to maintain one format.
+
+-- technical details --
+
+ID[ type = BC5; scale = x2; upscaling = XBR_x2NoBlend+XBR_x2Blend for G, XBR_x2NoBlend for R]
+D[ type = BC7, BC1; scale = x2; cleaning = bc1smooth2; upscaling = lollypop; downscaling = box]
+M[ type = BC7, BC1; scale = x2; cleaning = bc1smooth2; upscaling = lollypop; downscaling = box]
+S[ type = BC7; scale = x1, x2; cleaning = bc1smooth2; upscaling = lollypop; downscaling = box]
+N[ type= BC7; scale = x1, x2; cleaning = bc1smooth2; upscaling = scalenx/lollypop for RG, scalenx for B; downscaling = box]
+
+mass: 
+ID = 19.5GB @ BC5 x2
+Diffuse = 2.86 GB @ BC7 x1
+Multi = 3.29 GB @ BC7 x2
+Specular = 0.73 GB @ BC7 x2
+Normal = 5.46 GB @ BC7 x1
+
+possible downgrade (without reducing quality tbh)
+Multi = 1.65 GB @ BC1 x2 (might actually be mandatory)
+Specular  = 0.18 GB @ BC7 x1
+
+Downgrade would reduce mass to **29.65 GB** 
+
+Why only 1 version?
+Easier to maintain and not as much upgrade needed with new graphics.
+

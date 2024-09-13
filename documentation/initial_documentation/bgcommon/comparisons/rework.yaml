@@ -1,0 +1,14 @@
+delta chain:
+    if in both 6-3 and 7-0:
+        write to 6-3 and 7-0 match:
+            turn to dds:
+                compare size:
+                    if size_change
+                        write 7-0 to size_change
+                    else:
+                        if type change:
+                            write to 7-0 to type_change
+                        else:
+                            write to to 7-0_similar
+    else:
+        write to 7-0_new

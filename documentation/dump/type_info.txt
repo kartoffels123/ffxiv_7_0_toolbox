@@ -1,0 +1,17 @@
+tex come in different types:
+commonly
+bc1 - 3 channel 8b
+bc1 - 4 channel 8b
+bc3 - 4 channel 16b
+bc4 - 1 channel 8b
+bc5 - 2 channel 16b
+bc7 - 3 channel 8b
+
+and material shader types:
+bg = word textures
+bgcolorchange = world texture which can change color (housing)
+character = most char assets
+characterlegacy = that which uses the old shading system
+hair = for hair
+harmask = for hair mask
+there are further shpk but these are the most common

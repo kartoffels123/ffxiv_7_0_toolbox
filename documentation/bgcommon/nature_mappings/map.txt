@@ -1,0 +1,15 @@
+source =  output
+_n_wave_000 = _n_wave_000, _n_wave_000a
+_n_wave_001 = _n_wave_001
+_n_wave_002 = _n_wave_002, _n_wave_003, _n_wave_002_n, _n_wave_002a
+_n_wave_100 = _n_wave_100 
+_n_wave_101 = _n_wave_101 
+_n_wave_102 = _n_wave_102 
+_n_wavelet_000 = _n_wavelet_000
+_n_whitecap_000 = _n_whitecap_000
+_n_whitecap_001 = _n_whitecap_001
+_n_whitecap_r_000 = _n_whitecap_r_000
+_n_whitecap_w_000 = _n_whitecap_w_000
+_n_verticalfog_000 = _n_verticalfog_000
+_n_verticalfog_001 = _n_verticalfog_001
+_n_verticalfog_002 = _n_verticalfog_002

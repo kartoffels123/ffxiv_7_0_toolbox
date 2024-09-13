@@ -1,0 +1,34 @@
+file, complete, check
+origin
+ffxiv/010000.win32.index, y, y
+ffxiv/020000.win32.index, y, y
+ffxiv/030000.win32.index, s (cutscenes),
+ffxiv/040000.win32.index, y, y
+ffxiv/050000.win32.index, s (shaders),
+ffxiv/060000.win32.index, s (ui),
+ffxiv/070000.win32.index, s (sound),
+ffxiv/080000.win32.index, y, y
+1,
+ex1/020101.win32.index, y, y
+ex1/020102.win32.index, y, y
+ex1/020103.win32.index, y, y
+ex1/020104.win32.index, y, y
+ex1/020105.win32.index, y, y
+2
+ex2/020201.win32.index, y, y
+ex2/020202.win32.index, y, y
+ex2/020203.win32.index, y, y
+ex2/020205.win32.index, y, y
+3
+ex3/020301.win32.index, y, y
+ex3/020302.win32.index, y, y
+ex3/020304.win32.index, y, y
+ex3/020305.win32.index, y, y
+4,
+ex4/020401.win32.index, y, y
+ex4/020402.win32.index, y, y
+ex4/020403.win32.index, y, y
+ex4/020404.win32.index, y, y
+ex4/020405.win32.index, y, y
+ex4/020406.win32.index, y, y
+
