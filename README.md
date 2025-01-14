@@ -12,7 +12,7 @@ These are all things I used to help
 1. find which textures to ignore
 2. migrate textures which could be migrated
 3. create new textures
-4. dispose or update textures as square enix continues through dawntrial.
+4. dispose or update textures as square enix continues through dawntrail.
 
 Further tools can be found under:
 
